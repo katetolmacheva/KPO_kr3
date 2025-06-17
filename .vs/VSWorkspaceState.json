@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\.idea",
+    "\\.idea\\.idea.CW3",
+    "\\.idea\\.idea.CW3\\.idea",
+    "\\.idea\\.idea.ShopOnline",
+    "\\.idea\\.idea.ShopOnline\\.idea",
+    "\\api-gateway",
+    "\\api-gateway\\Properties",
+    "\\db-init",
+    "\\order-service",
+    "\\order-service\\Controllers"
+  ],
+  "SelectedNode": "\\api-gateway\\Program.cs",
+  "PreviewInSolutionExplorer": false
+}
